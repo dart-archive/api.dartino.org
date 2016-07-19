@@ -13,4 +13,4 @@ wiki on promoting](https://github.com/dartino/sdk/wiki/Pushing-out-a-new-dev-cha
 A Travis CI job automatically detect all pushes to this repo, and when those
 happen deploys the contents of the `public` directory to Firebase Hosting.
 
-[![Deployment status -](https://travis-ci.org/dartino/api.dartino.org.svg?branch=master](https://travis-ci.org/dartino/api.dartino.org)
+[![Deployment status -](https://travis-ci.org/dartino/api.dartino.org.svg?branch=master)](https://travis-ci.org/dartino/api.dartino.org)
