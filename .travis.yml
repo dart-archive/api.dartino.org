@@ -10,4 +10,4 @@ script:
  - firebase deploy --project api-dartino-org-f30a3 --token "$FIREBASE_TOKEN"
 
 after_success:
- - echo 'Succesfully deployed /public/ to Firebase Hosting. Docs are live at https://api.dartino.org'.
+ - echo 'Succesfully deployed /public/ to https://api.dartino.org!'.
